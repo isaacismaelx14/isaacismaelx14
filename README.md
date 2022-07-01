@@ -1,5 +1,6 @@
-Hi 👋 My name is Isaac Martinez
+Hi 👋 My name is Isaac Martinez 
 ===============================
+`A dreamer trapped in a finite body, with infinite ideas.`
 
 FullStack Developer
 -------------------
@@ -10,7 +11,7 @@ I'm a person who loves computer science, from a very young age I fell in love wi
 * 🌍  I'm based in Dominican Republic
 * 🖥️  See my portfolio at [www.isaacmartinez.dev](http://www.isaacmartinez.dev/)
 * ✉️  You can contact me at [isaacismaelx14@gmail.com](mailto:isaacismaelx14@gmail.com)
-* 🧠  I'm learning Flutter
+* 🧠  I'm learning Flutter & Golang
 
 <a href="https://www.github.com/isaacismaelx14" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/isaacismaelx14?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
