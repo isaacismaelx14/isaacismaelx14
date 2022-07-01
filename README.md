@@ -3,6 +3,7 @@ Hi 👋 My name is Isaac Martinez
 
 FullStack Developer
 -------------------
+> I Love AutoComplete, I Love TypeScript.
 
 I'm a person who loves computer science, from a very young age I fell in love with computer programming I started with my first computer language at 12 years old, it was c# and now with Web Technologies. Also, I have knowledge of customer support because I have been working in the family business since a very young age.
 
