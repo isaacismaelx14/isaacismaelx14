@@ -8,8 +8,8 @@ FullStack Developer
 
 I'm a person who loves computer science, from a very young age I fell in love with computer programming I started with my first computer language at 12 years old, it was c# and now with Web Technologies. Also, I have knowledge of customer support because I have been working in the family business since a very young age.
 
-* 🌍  I'm based in Dominican Republic
-* 🖥️  See my portfolio at [www.isaacmartinez.dev](http://www.isaacmartinez.dev/)
+* 🌍  I'm based in Dominican Republic 🇩🇴
+* 🖥️  See my portfolio at [www.isaacmartinez.dev](http://www.isaacmartinez.dev/)
 * ✉️  You can contact me at [isaacismaelx14@gmail.com](mailto:isaacismaelx14@gmail.com)
 * 🧠  I'm learning Flutter & Golang
 
