@@ -71,3 +71,11 @@ src="https://img.shields.io/github/followers/isaacismaelx14?logo=github&style=fo
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/isaacismaea"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+<h2 align="center">👋Thank You For Your Visit</h2>
+<div align="center">
+<img src="https://profile-counter.glitch.me/isaacismaelx14/count.svg">
+</div>
+</br>
+
+
