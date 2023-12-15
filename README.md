@@ -7,11 +7,13 @@
        alt="snake" /></a>
 </div>
 
-FullStack Developer
+Full Stack Engineer
 -------------------
 > I Love AutoComplete, I Love TypeScript.
 
-I'm a person who loves computer science, from a very young age I fell in love with computer programming I started with my first computer language at 12 years old, it was c# and now with Web Technologies. Also, I have knowledge of customer support because I have been working in the family business since a very young age.
+Full Stack Engineer with over 4 years of professional experience. I began my career 5 years ago, working independently in Frontend development, collaborating on projects for friends while acquiring new skills. About a year and a half later, I expanded my focus to Backend development.
+
+I specialize in using NextJS for Frontend and NestJS for Backend. Additionally, I have experience managing projects using Express, Deno, and Go. My focus has always been on developing efficient and scalable solutions, maintaining a constant commitment to learning and innovation in the field of software engineering.
 
 * 🌍  I'm based in Dominican Republic 🇩🇴
 * 🖥️  See my portfolio at [www.isaacmartinez.dev](http://www.isaacmartinez.dev/)
